@@ -64,7 +64,7 @@
         <item name="keyTextShadowColor">#BB000000</item>
         <item name="keyTextShadowRadius">2.75</item>
         <item name="backgroundDimAlpha">128</item>
-        <!-- android:color/holo_blue_light=#FFffd000 -->
+        <!-- android:color/holo_blue_light=#FF33B5E5 -->
         <item name="gestureFloatingPreviewTextSize">@dimen/gesture_floating_preview_text_size</item>
         <item name="gestureFloatingPreviewTextColor">@android:color/holo_blue_light</item>
         <item name="gestureFloatingPreviewTextOffset">@dimen/gesture_floating_preview_text_offset</item>
@@ -375,7 +375,7 @@
         parent="SuggestionsStripBackgroundStyle.IceCreamSandwich"
     >
         <item name="suggestionStripOption">autoCorrectBold|validTypedWordBold</item>
-        <!-- android:color/holo_blue_light=#FFffd000 -->
+        <!-- android:color/holo_blue_light=#FF33B5E5 -->
         <item name="colorValidTypedWord">@android:color/holo_blue_light</item>
         <item name="colorTypedWord">@android:color/holo_blue_light</item>
         <item name="colorAutoCorrect">@android:color/holo_blue_light</item>
